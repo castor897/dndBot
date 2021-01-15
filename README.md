@@ -13,6 +13,6 @@ To use this bot you have to create a discord bot through the discord dev portal 
 Make sure you are using python3.8 at least, when the bot is online the bot will say in the terminal "Bot is online". To keep the bot online and working
 this python program has to be on at all times, I recommend using a old computer just for this or a vps.
 # Modules used
-random - used for generating random numbers
+random - used for generating random numbers |
 discord - used for coding bots in python to use in discord chats
 
