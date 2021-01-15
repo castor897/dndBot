@@ -8,8 +8,8 @@ Here are the commands for the bot:
 !d6 - rolls a d6 dice and gives the user a random number between 1 and 6
 !h - shows the user a list of commands for the dndBot
 
-How to use:
-To use this bot you have to create a discord bot through the discord dev portal and then copy paste the token into the cod where it says token here.
+How to setup:
+To use this bot you have to create a discord bot through the discord dev portal and then copy paste the token into the code where it says token here.
 Make sure you are using python3.8 at least, when the bot is online the bot will say in the terminal "Bot is online". To keep the bot online and working
 this python program has to be on at all times, I recommend using a old computer just for this or a vps.
 # Modules used
